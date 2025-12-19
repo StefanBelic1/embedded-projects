@@ -1,7 +1,7 @@
-# ♟️ Sat za šah (ATmega328P-AU)
+# Sat za šah (ATmega328P-AU)
 
 **Vrsta projekta:** Ugradbeni sustav  
-**Mikrokontroler:** ATmega328P  
+**Mikrokontroler:** ATmega328P-AU  
 **Jezik:** C / Arduino  
 **Alati:** Arduino IDE, alati za dizajn PCB-a (KiCad, EasyEDA)  
 
