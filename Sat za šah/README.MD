@@ -3,7 +3,6 @@
 **Vrsta projekta:** Ugradbeni sustav  
 **Mikrokontroler:** ATmega328P  
 **Jezik:** C / Arduino  
-**Sučelja:** GPIO, I2C  
 **Alati:** Arduino IDE, alati za dizajn PCB-a (KiCad, EasyEDA)  
 
 ## Opis projekta
