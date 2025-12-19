@@ -6,7 +6,7 @@
 **Alati:** Arduino IDE, alati za dizajn PCB-a (KiCad, EasyEDA)  
 
 ## Opis projekta
-Ovaj projekt predstavlja elektronički sat za šah razvijen kao cjelovit ugradbeni sustav – od dizajna hardvera do implementacije firmwarea. Uređaj mjeri vrijeme za dva igrača te omogućuje prebacivanje aktivnog timera pomoću fizičkih tipki.
+Ovaj projekt predstavlja elektronički sat za šah razvijen kao cjelovit ugradbeni sustav, od dizajna hardvera do implementacije firmwarea. Uređaj mjeri vrijeme za dva igrača te omogućuje prebacivanje aktivnog timera pomoću fizičkih tipki.
 
 ## Moj doprinos
 - Izrada elektroničke sheme
