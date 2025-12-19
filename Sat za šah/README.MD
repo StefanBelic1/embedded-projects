@@ -1,4 +1,4 @@
-# ♟️ Sat za šah (ATmega328P)
+# ♟️ Sat za šah (ATmega328P-AU)
 
 **Vrsta projekta:** Ugradbeni sustav  
 **Mikrokontroler:** ATmega328P  
