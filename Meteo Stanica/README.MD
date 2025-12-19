@@ -1,4 +1,4 @@
-# 🌡️ Meteo stanica (Arduino / Croduino)
+# Meteo stanica (Arduino / Croduino)
 
 **Vrsta projekta:** Ugradbeni sustav / sustav stvarnog vremena  
 **Platforma:** Arduino / Croduino   
